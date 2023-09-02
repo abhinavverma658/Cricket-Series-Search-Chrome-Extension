@@ -1,0 +1,16 @@
+{
+    "name": "Cricket Series Search",
+    "version": "1.0.0",
+    "description":"Ask for upcoming cricket series details. It will provide concise information.",
+    "manifest_version": 3,
+    "author":"Abhinav Verma",
+
+    "action": {
+        "default_popup":"index.html",
+        "default_title":"Cricket Series Search",
+        "defaut_icon":"cricket.png"
+    },
+    "icons":{
+        "128":"cricket.png"
+        }
+}

@@ -1,0 +1,33 @@
+body{
+    height:auto;
+    width: 400px;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
+#matches{
+    display: inline ;
+    justify-content: center;
+    font-style: italic;
+    font-size: 17px;
+}
+#searchInput{
+    border-radius: 30px;
+    border-color: black;
+}
+#submitbtn{
+    border-radius: 30px;
+    border-color: black;
+    font-style: italic;
+    cursor: pointer;
+    background-color: rgb(39, 243, 168);
+}
+#countryname{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 15px;
+}
+div h2,h3{
+    display: flex;
+    justify-content: center;
+}
