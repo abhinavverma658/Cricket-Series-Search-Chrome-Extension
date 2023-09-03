@@ -11,4 +11,4 @@ This Chrome extension allows you to instantly access information about upcoming 
 3. Series Timeline ✅
 4. Effortless Series Search✅
 ## I'd appreciate your input and suggestions for enhancing this project. Please share your feedback and your satisfaction level with it.
-[Final Implementattion](https://drive.google.com/file/d/124aVTzmbI5EaLwbEJ8ewNAa5v1j4JbzJ/view?usp=sharing)
+## [Final Implementation Video Link](https://drive.google.com/file/d/124aVTzmbI5EaLwbEJ8ewNAa5v1j4JbzJ/view?usp=sharing)
